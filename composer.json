@@ -1,0 +1,21 @@
+{
+    "name": "akramdev-ye/my-composer-package",
+    "description": "This is simple package",
+    "type": "library",
+    "require": {
+        "php": ">7.4"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "AkramdevYe\\MyComposerPackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Akram Ghaleb",
+            "email": "akramghammari@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
