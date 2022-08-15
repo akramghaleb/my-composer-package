@@ -10,6 +10,11 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "last_opened_file_path": "D:/MyWebsites/github/example-app"
+  }
+}]]></component>
   <component name="TaskManager">
     <servers />
   </component>
