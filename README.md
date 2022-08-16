@@ -1,2 +1,2 @@
 # my-composer-package
-This is simple package
+This is simple package test.
